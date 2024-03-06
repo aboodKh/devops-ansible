@@ -1,4 +1,4 @@
-# run apache and nginx servers on different inventory hosts
+# installing and running apache & nginx
 ---
 - hosts: all
   become: true

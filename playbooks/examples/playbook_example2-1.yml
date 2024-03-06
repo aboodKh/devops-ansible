@@ -1,3 +1,4 @@
+# stopping the web servers 
 ---
 - hosts: web-server1
   become: true

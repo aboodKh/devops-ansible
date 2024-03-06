@@ -1,4 +1,4 @@
-
+# demonstrate how to use the magic variable hostvars to pass variables between plays/hosts
 ---
 - hosts: web-server1
   name: example4

@@ -1,3 +1,4 @@
+# installing python in managed nodes
 - hosts: all
   name: example1
   become: true
