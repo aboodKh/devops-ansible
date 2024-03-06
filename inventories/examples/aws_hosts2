@@ -1,8 +1,8 @@
 [web-server1]
-ec2-xx-xx-xxx-xxx.compute-1.amazonaws.com
+ec2-34-207-97-0.compute-1.amazonaws.com
 
 [web-server2]
-ec2-xx-xxx-xxx-xxx.compute-1.amazonaws.com
+ec2-34-202-9-56.compute-1.amazonaws.com
 
 [cluster:children]
 web-server1
